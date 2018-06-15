@@ -14,3 +14,4 @@ hexo d #完整命令为hexo deploy,用于将本地文件发布到github等git仓
 hexo n “my article” #完整命令为hexo new,用于新建一篇名为“my article”的文章
 
 我的第一篇文章
+在这里
